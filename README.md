@@ -10,4 +10,4 @@
 - [Задание 5](https://github.com/GPGPUCourse/GPGPUTasks2025/tree/task05): ```[до 27.10, 10 баллов]``` Radix sort (поразрядная сортировка). Ценник баллов ```престижа```: 5 за 200+ КК/s, 1 за 100+ KK/s.
 - [Задание 6](https://github.com/GPGPUCourse/GPGPUTasks2025/tree/task06): ```[до 03.11, 10 баллов]``` Merge sort (сортировка слиянием). ```Престиж```: 5/3/2/1 баллов за 500/400/300/200+ KK/s соответственно.
 - [Задание 7](https://github.com/GPGPUCourse/GPGPUTasks2025/tree/task07): ```[до 10.11, 5 баллов]``` SpMV (умножение разреженной CSR-матрицы на вектор).
-- [Задание 8](https://github.com/GPGPUCourse/GPGPUTasks2025/tree/task08): ```[до 29.11, 5+10 баллов]``` Ray Tracing: обход BVH + построение LBVH на GPU.
+- [Задание 8](https://github.com/GPGPUCourse/GPGPUTasks2025/tree/task08): ```[до 29.11, 5+10 баллов]``` Ray Tracing: обход BVH + построение LBVH на GPU. ```Престиж```: 5 баллов за denoising, 10 баллов за RT cores hardware acceleration.
